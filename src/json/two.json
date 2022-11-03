@@ -1,0 +1,32 @@
+[
+  {
+    "hello": "Elton",
+    "region": "North Gyeongsang",
+    "email": "elit.pellentesque.a@google.edu",
+    "country": "South Korea"
+  },
+  {
+    "hello": "Keiko",
+    "region": "Khmelnytskyi oblast",
+    "email": "sed.facilisis@protonmail.net",
+    "country": "Russian Federation"
+  },
+  {
+    "hello": "Jordan",
+    "region": "Kogi",
+    "email": "nulla@icloud.com",
+    "country": "New Zealand"
+  },
+  {
+    "hello": "Mallory",
+    "region": "Mecklenburg-Vorpommern",
+    "email": "metus.in.lorem@hotmail.org",
+    "country": "Belgium"
+  },
+  {
+    "hello": "Lacota",
+    "region": "Nairnshire",
+    "email": "ante.lectus.convallis@hotmail.couk",
+    "country": "Poland"
+  }
+]
